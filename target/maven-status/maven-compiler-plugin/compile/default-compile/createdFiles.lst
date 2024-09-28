@@ -1,0 +1,15 @@
+com/feedmeApp/feedme/recipe/model/Recipe.class
+com/feedmeApp/feedme/recipe/repository/impl/CustomRecipeRepository.class
+com/feedmeApp/feedme/exceptions/ResourceNotFoundException.class
+com/feedmeApp/feedme/recipe/repository/impl/RecipeRepositoryImpl.class
+com/feedmeApp/feedme/FeedmeApplication.class
+com/feedmeApp/feedme/recipeCategory/model/RecipeCategory.class
+com/feedmeApp/feedme/recipe/service/RecipeService.class
+com/feedmeApp/feedme/recipeCategory/repository/CustomRecipeRepository.class
+com/feedmeApp/feedme/recipeCategory/repository/RecipeCategoryRepository.class
+com/feedmeApp/feedme/recipe/repository/RecipeRepository.class
+com/feedmeApp/feedme/recipe/controller/RecipeController.class
+com/feedmeApp/feedme/common/SearchRecipe.class
+com/feedmeApp/feedme/recipe/service/impl/RecipeServiceImpl.class
+com/feedmeApp/feedme/recipe/service/impl/RecipeServiceImpl$CategoryResult.class
+com/feedmeApp/feedme/recipeCategory/controller/RecipeCategoryController.class

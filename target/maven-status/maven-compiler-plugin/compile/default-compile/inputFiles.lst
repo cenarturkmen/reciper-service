@@ -1,0 +1,14 @@
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/FeedmeApplication.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/common/SearchRecipe.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/exceptions/ResourceNotFoundException.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/controller/RecipeController.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/model/Recipe.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/repository/RecipeRepository.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/repository/impl/CustomRecipeRepository.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/repository/impl/RecipeRepositoryImpl.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/service/RecipeService.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipe/service/impl/RecipeServiceImpl.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipeCategory/controller/RecipeCategoryController.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipeCategory/model/RecipeCategory.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipeCategory/repository/CustomRecipeRepository.java
+/Users/caner/Documents/workspace/feedMeAppBE/src/main/java/com/feedmeApp/feedme/recipeCategory/repository/RecipeCategoryRepository.java
